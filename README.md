@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png" width="100%" alt="Rooney James, AI/ML Engineering">
+<img src="banner.png" width="100%" alt="Runie, AI/ML Engineering">
 <br/>
 <a href="https://kirai-portfolio.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=1D9BF0&center=true&vCenter=true&width=640&height=44&lines=AI/ML+engineering+student+in+Nairobi%2C+Kenya;LLMs+%C2%B7+Computer+Vision+%C2%B7+Python+APIs;2nd+place+at+an+MLH+hackathon" alt="Typing headline" />
