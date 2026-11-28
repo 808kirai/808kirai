@@ -17,9 +17,9 @@
 
 * Software engineering student at **Multimedia University of Kenya**, graduating in 2029.
 
-* I build AI tools in Python, mostly with **LLMs** (Claude, Gemma, Nemotron), **computer vision** and **FastAPI**, and I'm a member of the **NVIDIA Developer Program**.
+* I build AI tools mostly with **LLMs** (Claude, Gemma, Nemotron), **computer vision** and **FastAPI**, and I'm a member of the **NVIDIA Developer Program**.
 
-* Kiswahili, English and some Mandarin. More at [kirai-portfolio.vercel.app](https://kirai-portfolio.vercel.app).
+* More at [kirai-portfolio.vercel.app](https://kirai-portfolio.vercel.app).
 
 <div align="center">
 
