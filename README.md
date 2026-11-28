@@ -19,7 +19,7 @@
 
 * I build AI tools mostly with **LLMs** (Claude, Gemma, Nemotron), **computer vision** and **FastAPI**, and I'm a member of the **NVIDIA Developer Program**.
 
-* More at [kirai-portfolio.vercel.app](https://kirai-portfolio.vercel.app).
+* More at [runie67.vercel.app](https://runie67.vercel.app).
 
 <div align="center">
 
