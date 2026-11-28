@@ -17,7 +17,7 @@
 
 * Software engineering student at **Multimedia University of Kenya**, graduating in 2029.
 
-* I build AI tools mostly with **LLMs** (Claude, Gemma, Nemotron), **computer vision** and **FastAPI**, and I'm a member of the **NVIDIA Developer Program**.
+* I build AI tools integrated with **LLMs** (Claude, Gemma, Nemotron), **computer vision** and **FastAPI**, and I'm a member of the **NVIDIA Developer Program**.
 
 * More at [runie67.vercel.app](https://runie67.vercel.app).
 
